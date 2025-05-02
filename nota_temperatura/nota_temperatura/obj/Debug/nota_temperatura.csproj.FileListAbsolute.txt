@@ -1,0 +1,11 @@
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\bin\Debug\nota_temperatura.exe.config
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\bin\Debug\nota_temperatura.exe
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\bin\Debug\nota_temperatura.pdb
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.csproj.AssemblyReference.cache
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.frmInicio.resources
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.frmMedia.resources
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.Properties.Resources.resources
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.csproj.GenerateResource.cache
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.exe
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.pdb
