@@ -9,3 +9,4 @@ C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_
 C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.csproj.CoreCompileInputs.cache
 C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.exe
 C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.pdb
+C:\Users\sarah\projetosVisualStudio\mediaNota_porcentagem\nota_temperatura\nota_temperatura\obj\Debug\nota_temperatura.frmTemperatura.resources

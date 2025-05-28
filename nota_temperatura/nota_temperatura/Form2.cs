@@ -19,7 +19,7 @@ namespace nota_temperatura
         {
             frmMedia.ActiveForm.Close();
             frmInicio frmInicio = new frmInicio();
-            frmInicio.Show();
+            //frmInicio.Show();
         }
 
         public frmMedia()
@@ -35,20 +35,20 @@ namespace nota_temperatura
             media4 = numMedia4.Value;
 
             mediaFinal = (media1 + media2 + media3 + media4) / 4;
-
-            if(mediaFinal >= 7)
+            decimal mediaFinalArredondada = Math.Round(mediaFinal, 1);
+            if (mediaFinal >= 7)
             {
-                lblMediaFinal.Text = $"Aprovado Média: {mediaFinal}";
+                lblMediaFinal.Text = $"Aprovado Média: {mediaFinalArredondada}";
                 lblMediaFinal.ForeColor = Color.Green;
             }
             else if (mediaFinal >= 5)
             {
-                lblMediaFinal.Text = $"Recuperação Média: {mediaFinal}";
+                lblMediaFinal.Text = $"Recuperação Média: {mediaFinalArredondada}";
                 lblMediaFinal.ForeColor = Color.Orange;
             }
             else
             {
-                lblMediaFinal.Text = $"Reprovado Média: {mediaFinal}";
+                lblMediaFinal.Text = $"Reprovado Média: {mediaFinalArredondada}";
                 lblMediaFinal.ForeColor = Color.Red;
             }
         }

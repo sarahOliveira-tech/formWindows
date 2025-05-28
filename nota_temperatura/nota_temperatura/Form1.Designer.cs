@@ -54,6 +54,7 @@
             this.btnTemp.TabIndex = 1;
             this.btnTemp.Text = "&Temperatura";
             this.btnTemp.UseVisualStyleBackColor = true;
+            this.btnTemp.Click += new System.EventHandler(this.btnTemp_Click);
             // 
             // frmInicio
             // 

@@ -22,5 +22,11 @@ namespace nota_temperatura
             frmMedia frmMedia = new frmMedia();
             frmMedia.Show();
         }
+
+        private void btnTemp_Click(object sender, EventArgs e)
+        {
+            frmTemperatura frmTemp = new frmTemperatura();
+            frmTemp.Show();
+        }
     }
 }

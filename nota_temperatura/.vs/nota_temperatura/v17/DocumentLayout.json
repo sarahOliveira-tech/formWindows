@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|c:\\users\\sarah\\projetosvisualstudio\\medianota_porcentagem\\nota_temperatura\\nota_temperatura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A876259-6B47-4617-92AB-3D0BD0770834}|nota_temperatura\\nota_temperatura.csproj|solutionrelative:nota_temperatura\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,66 +54,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs",
-              "RelativeDocumentMoniker": "nota_temperatura\\Form2.cs",
-              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs",
-              "RelativeToolTip": "nota_temperatura\\Form2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form3.Designer.cs*",
+              "RelativeToolTip": "nota_temperatura\\Form3.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:41:03.052Z",
+              "WhenOpened": "2025-05-28T16:05:37.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs",
-              "RelativeDocumentMoniker": "nota_temperatura\\Form1.cs",
-              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs",
-              "RelativeToolTip": "nota_temperatura\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form3.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Form3.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form3.cs*",
+              "RelativeToolTip": "nota_temperatura\\Form3.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wCcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:24:30.723Z",
+              "WhenOpened": "2025-05-28T16:03:08.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Program.cs",
-              "RelativeDocumentMoniker": "nota_temperatura\\Program.cs",
-              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Program.cs",
-              "RelativeToolTip": "nota_temperatura\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form3.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Form3.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form3.cs [Design]*",
+              "RelativeToolTip": "nota_temperatura\\Form3.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:18:19.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T15:52:51.317Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs",
               "RelativeDocumentMoniker": "nota_temperatura\\Form2.cs",
               "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs [Design]",
               "RelativeToolTip": "nota_temperatura\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:17:12.476Z",
+              "WhenOpened": "2025-05-03T01:50:36.579Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs",
               "RelativeDocumentMoniker": "nota_temperatura\\Form1.cs",
               "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs [Design]",
               "RelativeToolTip": "nota_temperatura\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T05:14:08.795Z",
+              "WhenOpened": "2025-05-03T01:50:28.129Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.Designer.cs",
+              "RelativeToolTip": "nota_temperatura\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:45:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Form2.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form2.cs",
+              "RelativeToolTip": "nota_temperatura\\Form2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:41:03.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Form1.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Form1.cs",
+              "RelativeToolTip": "nota_temperatura\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:24:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Program.cs",
+              "RelativeDocumentMoniker": "nota_temperatura\\Program.cs",
+              "ToolTip": "C:\\Users\\sarah\\projetosVisualStudio\\mediaNota_porcentagem\\nota_temperatura\\nota_temperatura\\Program.cs",
+              "RelativeToolTip": "nota_temperatura\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T05:18:19.773Z",
+              "EditorCaption": ""
             }
           ]
         }

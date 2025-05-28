@@ -215,7 +215,7 @@
             this.lblMediaFinal.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMediaFinal.Location = new System.Drawing.Point(516, 121);
             this.lblMediaFinal.Name = "lblMediaFinal";
-            this.lblMediaFinal.Size = new System.Drawing.Size(165, 65);
+            this.lblMediaFinal.Size = new System.Drawing.Size(165, 79);
             this.lblMediaFinal.TabIndex = 12;
             // 
             // frmMedia
